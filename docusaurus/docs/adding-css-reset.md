@@ -23,8 +23,8 @@ You can control which parts of [normalize.css] to use via your project's [browse
 Results when [browserslist] is `last 3 versions`:
 
 ```css
-/**
- * Add the correct display in IE 9-.
+/*
+  Add the correct display in IE 9-.
  */
 
 audio,
@@ -32,8 +32,8 @@ video {
   display: inline-block;
 }
 
-/**
- * Remove the border on images inside links in IE 10-.
+/*
+  Remove the border on images inside links in IE 10-.
  */
 
 img {
@@ -44,8 +44,8 @@ img {
 Results when [browserslist] is `last 2 versions`:
 
 ```css
-/**
- * Remove the border on images inside links in IE 10-.
+/*
+  Remove the border on images inside links in IE 10-.
  */
 
 img {
